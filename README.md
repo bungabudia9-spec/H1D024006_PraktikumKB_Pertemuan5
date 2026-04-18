@@ -33,8 +33,8 @@ Penyakit: Faringitis
 Tingkat Kecocokan: 60%
 
 ## Identitas
-NAMA : BUNGA BUDI AMBAR WATI
-NIM : H1D024006
-PRAKTIKUM KECERDASAN BUATAN
-SHIFT KRS : G
-SHIFT SEKARANG : F
+- Nama: Bunga Budi Ambar Wati
+- NIM: H1D024006
+- Praktikum: Kecerdasan Buatan
+- Shift KRS: G
+- Shift Sekarang: F
